@@ -1,5 +1,1 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+the Cipher Encoder app is a web application that specifically implements the Vigenère cipher. It provides a user interface where users can input a message and a keyword, and then choose to either encrypt or decrypt the message using the Vigenère cipher algorithm. The app also includes features to display the output and copy the result to the clipboard, along with basic validation to ensure a keyword is provided for the operations. It uses React and various UI components from a component library for its front-end.
